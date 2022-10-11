@@ -1,0 +1,4 @@
+# SPADE-MVTEC-LOCO-AD-dataset
+1 
+2
+3
