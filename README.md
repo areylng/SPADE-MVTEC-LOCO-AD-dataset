@@ -4,9 +4,9 @@
 Change ````--anomaly_maps_dir```` to your own path (````log_metris```` folder is already included in this program!) .
 4. Run main.py.  (The evaluation code was taken from this [website](https://www.mvtec.com/company/research/datasets/mvtec-loco).)
 
-**There is generally no randomness in SPADE.  
-The results of this project have a small difference in ROCAUC at the image level from the original paper, but a large difference at the pixel level.   
-I don't know where is wrong, if you have any idea please leave a comment to discuss.**
++ There is generally no randomness in SPADE.  
++ The results of this project have a small difference in ROCAUC at the image-level from the original paper, but a **large difference at the pixel-level**.   
++ I don't know where is wrong, if you have any idea please leave a comment to discuss.
 
 |    |      Pixel-SPRO-AUC (Paper)      |  Pixel-SPRO-AUC (This Code) |  Image-ROC-AUC (Paper) |  Image-ROC-AUC (This Code) |
 |----------|:-------------:|:------:|:------:|:------:|
