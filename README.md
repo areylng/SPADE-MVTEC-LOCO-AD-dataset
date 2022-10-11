@@ -17,4 +17,4 @@ Change ````--anomaly_maps_dir```` to your own path (````log_metris```` folder is
 | Juice Bottle |0.804 |    0.587 |- |0.88 |
 | Mean |0.451 |   0.4 | 0.689 | 0.7054 |
 
- 
+Reference:https://github.com/byungjae89/SPADE-pytorch
